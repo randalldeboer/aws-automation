@@ -1,8 +1,7 @@
 # AWS Terraform automation
+Automating AWS Infrastructure Deployments with Terraform and CI/CD Integration
 
 ## AWS demo project using Terraform
-
-Automating AWS Infrastructure Deployments with Terraform and CI/CD Integration
 
 ### Project Outline
 
